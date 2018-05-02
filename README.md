@@ -5,7 +5,7 @@ This is my personal projects for the course. The course covers deep learning fro
 
 
 At last I've successfully completed the specialization and earned my [certificate](https://www.coursera.org/account/accomplishments/specialization/EBHSFZ3UD7QV)
-![](Certificate.pdf)
+[](Certificate.pdf)
 
 Instructor: [Andrew Ng, DeepLearning.ai]()
 
