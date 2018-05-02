@@ -3,6 +3,10 @@
 
 This is my personal projects for the course. The course covers deep learning from begginer level to advanced. Highly recommend anyone wanting to break into AI. 
 
+
+At last I've successfully completed the specialization and earned my [certificate](https://www.coursera.org/account/accomplishments/specialization/EBHSFZ3UD7QV)
+
+
 Instructor: [Andrew Ng, DeepLearning.ai]()
 
  ## Course 1. [Neural Networks and Deep Learning](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
